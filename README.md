@@ -2,7 +2,7 @@
 
 An AI-powered Streamlit app that detects and analyzes suspicious ATM transactions to provide:
 
-✅ Real-time fraud risk score
+. ✅ Real-time fraud risk score
 💡 Smart AI alerts & recommendations
 🧭 Transaction anomaly detection
 📊 PDF analysis report
@@ -22,10 +22,13 @@ Suggests preventive measures and compliance checks
 
 Supports hybrid detection (rule-based + ML-based)
 
-# ⚙️ Installation
-bash
+# Install dependencies:
 pip install -r requirements.txt
+
+# Run the Streamlit app:
 streamlit run app.py
+
+
 
 # 🗂️ Project Structure
 Code
