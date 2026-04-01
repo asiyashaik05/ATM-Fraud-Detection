@@ -2,10 +2,13 @@
 
 An AI-powered Streamlit app that detects and analyzes suspicious ATM transactions to provide:
 
-. ✅ Real-time fraud risk score
-💡 Smart AI alerts & recommendations
-🧭 Transaction anomaly detection
-📊 PDF analysis report
+ * ✅ Real-time fraud risk score
+   
+* 💡 Smart AI alerts & recommendations
+
+* 🧭 Transaction anomaly detection
+
+* 📊 PDF analysis report
 
 
 # ✨ Features
