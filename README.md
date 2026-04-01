@@ -25,11 +25,8 @@ An AI-powered Streamlit app that detects and analyzes suspicious ATM transaction
 
 * Supports hybrid detection (rule-based + ML-based)
 
-# Install dependencies:
-* pip install -r requirements.txt
-
-# Run the Streamlit app:
-* streamlit run app.py
+# Run the app:
+* python app.py
 
 
 
@@ -40,17 +37,15 @@ ATM-Fraud-Detection/
 
 ├── app.py
 
-├── requirements.txt
-
 ├── README.md
 
-├── dashboard.png
+├── confusion_matrix.png
 
-├── alerts.png
+├── precision_recall_curve.png
 
-├── anomalies.png
+├── roc_curve.png
 
-└── report.png
+└── final_output.png
 
 
 # ⚠️ Limitations
