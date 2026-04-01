@@ -37,6 +37,7 @@ An AI-powered Streamlit app that detects and analyzes suspicious ATM transaction
 Code
 
 ATM-Fraud-Detection/
+
 ├── app.py
 
 ├── requirements.txt
