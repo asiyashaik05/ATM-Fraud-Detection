@@ -64,11 +64,10 @@ ATM-Fraud-Detection/
 
 # 🖼️ App Preview
 
-<img width="1920" height="1080" alt="confusion_matrix" src="https://github.com/user-attachments/assets/ac1fb349-77ab-4c45-94bc-0419dde53baa" />
-<img width="1920" height="1080" alt="confusion_matrix" src="https://github.com/user-attachments/assets/e916d60c-2d03-4bec-8648-3470015d6ec6" />
-<img width="1920" height="1080" alt="roc_curve" src="https://github.com/user-attachments/assets/fa04975b-a7eb-4c1f-bfcc-c265e1a7ac04" />
-<img width="1920" height="1080" alt="final_output" src="https://github.com/user-attachments/assets/8bcefa1d-9fd6-46ad-8520-df117e9f9351" />
-
+ <img width="500" height="400" alt="confusion_matrix" src="https://github.com/user-attachments/assets/055c62ee-d2b0-47c3-8e35-6da409d6b2ad" />
+<img width="640" height="480" alt="precision_recall_curve" src="https://github.com/user-attachments/assets/5d843aed-1ffc-4108-b64e-465005d9cbd5" />
+<img width="640" height="480" alt="roc_curve" src="https://github.com/user-attachments/assets/47f4e9b4-d03a-443f-bbc9-e64ceff7d0f2" />
+<img width="1920" height="1080" alt="final_output" src="https://github.com/user-attachments/assets/b7fc3642-9c90-417b-a4f3-259a50699771" />
 
 
 # ⚖️ License
