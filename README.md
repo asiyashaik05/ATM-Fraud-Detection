@@ -69,15 +69,10 @@ ATM-Fraud-Detection/
 
 # 🖼️ App Preview
 
-
-confusion_matrix.png
-
-
-
-
-
-
-
+<img width="1920" height="1080" alt="confusion_matrix" src="https://github.com/user-attachments/assets/ac1fb349-77ab-4c45-94bc-0419dde53baa" />
+<img width="1920" height="1080" alt="confusion_matrix" src="https://github.com/user-attachments/assets/e916d60c-2d03-4bec-8648-3470015d6ec6" />
+<img width="1920" height="1080" alt="roc_curve" src="https://github.com/user-attachments/assets/fa04975b-a7eb-4c1f-bfcc-c265e1a7ac04" />
+<img width="1920" height="1080" alt="final_output" src="https://github.com/user-attachments/assets/8bcefa1d-9fd6-46ad-8520-df117e9f9351" />
 
 
 
